@@ -266,7 +266,7 @@ font-optical-sizing: auto;
 
 .section-3{
     width: 1600px;
-    height: 840px;
+    height: 700px;
 
 }
 
@@ -302,6 +302,30 @@ font-optical-sizing: auto;
      margin-left: 5px;
      color: #001931;
 }
+
+
+
+.section4_item{
+    width: 1360px;
+    height: 350px;
+    background-color: #F7F6F2;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+ 
+
+     
+    
+}
+
+.section-content{
+    margin-top: 80px;
+}
+
+
 
 
 
