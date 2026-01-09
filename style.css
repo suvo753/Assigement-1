@@ -264,6 +264,47 @@ font-optical-sizing: auto;
 
 }
 
+.section-3{
+    width: 1600px;
+    height: 840px;
+
+}
+
+.knowledge-item img{
+    width: 600px;
+    height: 600px;
+}
+
+.knowledge-content{
+    width: 700px;
+    height: 396px;
+    margin: 102px;
+}
+
+.main-div{
+    width: 1360px;
+    height: 600px;
+        display: flex;
+    margin: 120px 120px;
+}
+
+.k-p{
+    color: #30B868;
+}
+
+.maltiple-item{
+    display: flex;
+    margin-top: 10px;
+}
+
+.maltiple-item p{
+     font-size: 16px;
+     margin-left: 5px;
+     color: #001931;
+}
+
+
+
 
 
 
